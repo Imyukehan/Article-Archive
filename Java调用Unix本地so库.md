@@ -1,5 +1,5 @@
 # Java调用Unix本地so库
-2. 1. 创建 testJNI 文件夹
+1. 创建 testJNI 文件夹
 
 
 <!--more-->
